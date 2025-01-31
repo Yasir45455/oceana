@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/oceana/static/css/main.015ad336.css",
-    "main.js": "/oceana/static/js/main.cd408b92.js",
+    "main.css": "/oceana/static/css/main.4b97e910.css",
+    "main.js": "/oceana/static/js/main.c78da8e3.js",
     "static/js/239.8254d9a1.chunk.js": "/oceana/static/js/239.8254d9a1.chunk.js",
     "static/js/213.cc43d436.chunk.js": "/oceana/static/js/213.cc43d436.chunk.js",
     "static/js/455.bbe4331e.chunk.js": "/oceana/static/js/455.bbe4331e.chunk.js",
@@ -52,14 +52,14 @@
     "static/media/p-25.jpg": "/oceana/static/media/p-25.363a69be50b0349aeddc.jpg",
     "static/media/p-23.jpg": "/oceana/static/media/p-23.39826557dabaef315bed.jpg",
     "index.html": "/oceana/index.html",
-    "main.015ad336.css.map": "/oceana/static/css/main.015ad336.css.map",
-    "main.cd408b92.js.map": "/oceana/static/js/main.cd408b92.js.map",
+    "main.4b97e910.css.map": "/oceana/static/css/main.4b97e910.css.map",
+    "main.c78da8e3.js.map": "/oceana/static/js/main.c78da8e3.js.map",
     "239.8254d9a1.chunk.js.map": "/oceana/static/js/239.8254d9a1.chunk.js.map",
     "213.cc43d436.chunk.js.map": "/oceana/static/js/213.cc43d436.chunk.js.map",
     "455.bbe4331e.chunk.js.map": "/oceana/static/js/455.bbe4331e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.015ad336.css",
-    "static/js/main.cd408b92.js"
+    "static/css/main.4b97e910.css",
+    "static/js/main.c78da8e3.js"
   ]
 }
