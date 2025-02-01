@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/oceana/static/css/main.17cf68e4.css",
-    "main.js": "/oceana/static/js/main.27aae230.js",
+    "main.css": "/oceana/static/css/main.ba52326b.css",
+    "main.js": "/oceana/static/js/main.4be6592c.js",
     "static/js/239.8254d9a1.chunk.js": "/oceana/static/js/239.8254d9a1.chunk.js",
     "static/js/213.cc43d436.chunk.js": "/oceana/static/js/213.cc43d436.chunk.js",
     "static/js/455.bbe4331e.chunk.js": "/oceana/static/js/455.bbe4331e.chunk.js",
     "static/media/testimonial2.jpg": "/oceana/static/media/testimonial2.da532d73058eda7e69c0.jpg",
     "static/media/testimonial1.jpg": "/oceana/static/media/testimonial1.4767422150402d74057a.jpg",
     "static/media/testimonial3.jpg": "/oceana/static/media/testimonial3.77bda73bf5c5e36c223d.jpg",
+    "static/media/contactsection.jpg": "/oceana/static/media/contactsection.947b5bb48f673b9adc4a.jpg",
     "static/media/testimonial4.jpg": "/oceana/static/media/testimonial4.51ac66f203e4dbc0fec0.jpg",
     "static/media/onedaysale.jpg": "/oceana/static/media/onedaysale.273556ad73179ffb9b1b.jpg",
     "static/media/about.jpg": "/oceana/static/media/about.907fa030df8800f72a17.jpg",
@@ -18,7 +19,6 @@
     "static/media/cover.jpg": "/oceana/static/media/cover.3b329b2e70f9b6b8e8aa.jpg",
     "static/media/post-thumb-02.jpg": "/oceana/static/media/post-thumb-02.70b251c753975230d35f.jpg",
     "static/media/post-thumb-01.jpg": "/oceana/static/media/post-thumb-01.94b93ab166672c6be080.jpg",
-    "static/media/detail_04.jpg": "/oceana/static/media/detail_04.ab9ad7464c8fff7b2248.jpg",
     "static/media/post-thumb-03.jpg": "/oceana/static/media/post-thumb-03.ab9ad7464c8fff7b2248.jpg",
     "static/media/dddd.jpg": "/oceana/static/media/dddd.154adc14127c9cca80f3.jpg",
     "static/media/p-21.jpg": "/oceana/static/media/p-21.92ab7fd44fa43ea4b996.jpg",
@@ -53,14 +53,14 @@
     "static/media/p-25.jpg": "/oceana/static/media/p-25.363a69be50b0349aeddc.jpg",
     "static/media/p-23.jpg": "/oceana/static/media/p-23.39826557dabaef315bed.jpg",
     "index.html": "/oceana/index.html",
-    "main.17cf68e4.css.map": "/oceana/static/css/main.17cf68e4.css.map",
-    "main.27aae230.js.map": "/oceana/static/js/main.27aae230.js.map",
+    "main.ba52326b.css.map": "/oceana/static/css/main.ba52326b.css.map",
+    "main.4be6592c.js.map": "/oceana/static/js/main.4be6592c.js.map",
     "239.8254d9a1.chunk.js.map": "/oceana/static/js/239.8254d9a1.chunk.js.map",
     "213.cc43d436.chunk.js.map": "/oceana/static/js/213.cc43d436.chunk.js.map",
     "455.bbe4331e.chunk.js.map": "/oceana/static/js/455.bbe4331e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.17cf68e4.css",
-    "static/js/main.27aae230.js"
+    "static/css/main.ba52326b.css",
+    "static/js/main.4be6592c.js"
   ]
 }
