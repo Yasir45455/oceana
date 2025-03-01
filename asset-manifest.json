@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/oceana/static/css/main.fc552fab.css",
-    "main.js": "/oceana/static/js/main.3bd148fa.js",
+    "main.js": "/oceana/static/js/main.b9515749.js",
     "static/js/239.8254d9a1.chunk.js": "/oceana/static/js/239.8254d9a1.chunk.js",
     "static/js/213.cc43d436.chunk.js": "/oceana/static/js/213.cc43d436.chunk.js",
     "static/js/455.bbe4331e.chunk.js": "/oceana/static/js/455.bbe4331e.chunk.js",
@@ -54,13 +54,13 @@
     "static/media/p-23.jpg": "/oceana/static/media/p-23.39826557dabaef315bed.jpg",
     "index.html": "/oceana/index.html",
     "main.fc552fab.css.map": "/oceana/static/css/main.fc552fab.css.map",
-    "main.3bd148fa.js.map": "/oceana/static/js/main.3bd148fa.js.map",
+    "main.b9515749.js.map": "/oceana/static/js/main.b9515749.js.map",
     "239.8254d9a1.chunk.js.map": "/oceana/static/js/239.8254d9a1.chunk.js.map",
     "213.cc43d436.chunk.js.map": "/oceana/static/js/213.cc43d436.chunk.js.map",
     "455.bbe4331e.chunk.js.map": "/oceana/static/js/455.bbe4331e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fc552fab.css",
-    "static/js/main.3bd148fa.js"
+    "static/js/main.b9515749.js"
   ]
 }
